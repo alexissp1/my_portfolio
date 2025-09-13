@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/alexissp1/my_portfolio/blob/main/Screenshot.jpg?raw=true" 
-       width="150" style="border-radius:50%">
+ <img src="https://raw.githubusercontent.com/alexissp1/my_portfolio/main/Screenshot.jpg" 
+     width="150" style="border-radius:50%">
   <br><br>
   <b style="font-size:30px">LT Alexis Harrell-Parada, USN</b><br>
   <i>Operations Analyst in Training • Data Enthusiast</i>
