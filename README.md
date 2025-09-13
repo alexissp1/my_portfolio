@@ -1,6 +1,8 @@
-
-My proffessional portfolio repository
-Welcome to my GitHub portfolio! This repository collects some of my highlighted projects.
+<p align="center">
+  <img src="https://github.com/<your-username>/<repo-name>/blob/main/me.jpeg?raw=true" width="150" style="border-radius:50%"><br><br>
+  <b style="font-size:30px">YOUR NAME HERE</b><br>
+  <i>Student • Developer • Data Enthusiast</i>
+</p>
 
 ## Contact Me
 - Email: alexis_parada@yahoo.com
