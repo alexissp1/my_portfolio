@@ -7,7 +7,7 @@
 </p>
 
 ## Education
-- Bachelor of Science in in Operations Research from The United States Naval Academy (2021)
+- Bachelor of Science in Operations Research from The United States Naval Academy (2021)
 - Currently enrolled in the Operations Analysis (360) program at the Naval Postgraduate School
 
 ## Job Experience
