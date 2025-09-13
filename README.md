@@ -5,8 +5,8 @@
 </p>
 
 ## Education
-- B.S Degree in Operations Research from The United States Naval Academy (2021)
-- Currently working on obtaining M.S degree in Operations Analysis from the Naval Postgraduate School
+- Bachelor of Science in in Operations Research from The United States Naval Academy (2021)
+- Currently enrolled in the Operations Analysis (360) program at the Naval Postgraduate School
 
 ## Job Experience
 - Surface Warfare Officer | USN (2021-2024)
@@ -25,7 +25,7 @@
 
 ## Contact Me
 - Email: alexis_parada@yahoo.com
-- Phone:757-553-8801
+- Phone: (757)-553-8801
 
 
 ---
